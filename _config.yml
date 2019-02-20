@@ -1,0 +1,3 @@
+remote_theme: mrmanc/remote-theme-sass-test
+sass:
+  sass_dir: assets
